@@ -1,11 +1,11 @@
-
-/* Carousel */
-
+/*--------------------
+  CAROUSEL
+--------------------*/
 .carousel {
-	margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .carousel-caption h3 {
-	font-family: 'Vast Shadow', cursive;
-	color: white;
+  font-family: 'Vast Shadow', cursive;
+  color: white;
 }
