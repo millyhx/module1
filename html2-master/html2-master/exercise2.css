@@ -1,0 +1,56 @@
+.nav li{
+        display: inline-block;
+        padding-right: 10px;
+        background-color:pink;
+
+    }
+
+.nav li a {
+  color:white;
+}
+
+#page_content {
+  width:90%;
+  mad-width:1024px;
+  margin:0 auto;
+}
+
+
+#about_blue  {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  background-color:#3451DF;
+  margin-bottom: 10px;
+  float:right;
+  width:50%;
+
+
+}
+
+#about_yellow {
+  border-width:3px;
+  border-color:black;
+  border-style: solid;
+  background-color:#9348DF
+  float:right;
+  width:50%;
+}
+
+
+#about_blue ul li {
+  color:white;
+  float:right;
+  width:50%;
+}
+
+#about_yellow ul li {
+  color:white;
+  float:right;
+  width:50%;
+}
+
+.important {
+  font-size:16px;
+  font-weight:bold;
+}
